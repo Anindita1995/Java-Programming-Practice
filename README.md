@@ -1,2 +1,21 @@
-# DeAnza-Java-Programming-Labs
-Class_Lab
+# Java-Programming-Problems
+ - Linear Search
+ - Binary Search
+ - Array Removal
+ - Array Insertion
+ - Bubble Sort
+ - Insertion Sort
+ - Multi-Dimensional Arrays
+ - ArrayLists
+ - Overview: Classes and Objects in Java
+ - Instance Variables and Attributes
+ - Encapsulation, Information Hiding, Getters, Setters, Shadowing, toString
+ - Constructors, Heap vs Stack Memory
+ - This, Copy Constructor, Deep vs Shallow Copies
+ - Static Variables and Methods, Automatic Garbage Collection
+ - Final Classes, Abstract Classes, Polymorphism
+ - Interfaces
+ - The Comparable Interface
+ - The String Pool, StringBuilder and StringBuffer
+ - UML Class Diagrams, Generics
+ - Exception Handling, throw new 
